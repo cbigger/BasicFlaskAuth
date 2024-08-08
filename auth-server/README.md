@@ -1,8 +1,6 @@
 # KerBI's Auth Server
-Honestly, there isn't anything too cool going on here, so we had ChatGPT generate a generic README.md for us.
+
 Basically, if you know how auth works, this should be a piece of cake, and if you don't, here's a nice & simple Flask auth from which you may learn!
-
-
 
 This Flask application demonstrates JWT authentication using `flask_jwt_extended` and MongoDB for user management. It provides a simple API that authenticates users via an API key, issues JWT tokens, and proxies requests to another API with JWT validation.
 
