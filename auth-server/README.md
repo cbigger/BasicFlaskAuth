@@ -1,4 +1,4 @@
-# KerBI's Auth Server
+# KBI's Auth Server
 
 Basically, if you know how auth works, this should be a piece of cake, and if you don't, here's a nice & simple Flask auth from which you may learn!
 
